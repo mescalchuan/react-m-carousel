@@ -1,0 +1,22 @@
+/*.container {
+	overflow: hidden;
+	position: relative;
+}
+*/
+/*.container .carousel-main .carousel-list{
+	float:left;
+}*/
+
+/*.container .dot-container{
+	position:absolute;
+	left:50%;
+	transform: translateX(-50%);
+}*/
+
+/*.container .dot-container .dot-list{
+	float: left;
+}*/
+body{
+	padding: 0;
+	margin: 0;
+}
